@@ -1,5 +1,5 @@
 package com.spring.ex;
 
 public class Insert {
-	//Insert ÇÏÇÏÇÏ
+	//Insert í•œê¸€ì„¤ì • ê¼­ í•˜ê³  ì‹œìž‘
 }
