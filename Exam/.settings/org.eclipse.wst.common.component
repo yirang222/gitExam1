@@ -6,6 +6,10 @@
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
 		<property name="java-output-path" value="target/classes"/>
+<<<<<<< HEAD
         <property name="context-root" value="ex"/>
+=======
+        <property name="context-root" value="exam"/>
+>>>>>>> refs/remotes/kim/kim
 	</wb-module>
 </project-modules>
