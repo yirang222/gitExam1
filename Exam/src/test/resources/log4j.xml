@@ -11,7 +11,11 @@
 	</appender>
 	
 	<!-- Application Loggers -->
+<<<<<<< HEAD
 	<logger name="com.spring.ex">
+=======
+	<logger name="com.spring.exam">
+>>>>>>> refs/remotes/park/park
 		<level value="info" />
 	</logger>
 	
